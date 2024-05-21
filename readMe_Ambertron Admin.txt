@@ -1,6 +1,5 @@
 Github Link (Host: Frederick Gabrielle Cunanan):
-https://github.com/Wondershare-Filmora-6
-https://github.com/Wondershare-Filmora-6/gabriel_le_coder/tree/main
+https://wondershare-filmora-6.github.io/
 
 Github Link (Raw Files):
 https://github.com/Wondershare-Filmora-6/gabriel_le_coder/tree/main/Ambertron
